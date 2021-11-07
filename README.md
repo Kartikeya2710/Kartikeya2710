@@ -11,7 +11,7 @@
 
 - ✍️ Love writing articles on Machine Learning 
 - 🔥 Interested in Open Source contribution (Not started yet)
-- 📓 Like taking detailed and 'productive' notes 
+- 📓 Like taking detailed and <s>boring</s> 'productive' notes
 - 💪 Love implementing Machine Learning algorithms from scratch 
 - 🎵 Love listening to music especially Juice WRLD and Iann Dior
 
