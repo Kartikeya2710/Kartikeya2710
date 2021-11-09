@@ -48,19 +48,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Pinned Repositories</summary>
-  <br />
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kartikeya2710&repo=Machine-Learning&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-  <br />
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</details>
-
-
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
