@@ -60,4 +60,4 @@
   
 </details>
 
-[linkedin]: https://www.linkedin.com/in/kartikeya-rahul-sharma-3246281bb/
+[linkedin]: https://www.linkedin.com/in/kartikeya-sharma-3246281bb/
