@@ -2,9 +2,9 @@
 
 ### Hey there, I'm Kartikeya Sharma!
 
-- 🌱 Learning Data Structures and Algorithms
+- 🌱 Learning Machine Learning and Deep Learning
 - 🎓 Pursuing my B.Tech from The LNM Institute of Information Technology
-- 👯 Looking to collaborate with Machine Learning enthusiasts!
+- 👯 Looking for guidance from Machine Learning professionals
 - 🥅 Mission 2022: Master Data Structures and Algorithms
 
 ### Hobbies and Habits
