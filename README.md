@@ -1,45 +1,79 @@
-<img src="https://c.tenor.com/ftqs42Yna-oAAAAj/mochi-mochi-hello-white-mochi-mochi.gif" alt="Hello" width="60" height="60">
 
-### Hey there, I'm Kartikeya Sharma!
+<h2 align="center">
+  <img src="https://c.tenor.com/rbx3ph5SLRUAAAAj/pikachu-pokemon.gif" alt="Hello" width="95" height="80">
+  
+  Welcome to my Profile!
+</h2>
+
+---
+
+### About Me
 
 - 🌱 Learning Machine Learning and Deep Learning
 - 🎓 Pursuing my B.Tech from The LNM Institute of Information Technology
-- 👯 Looking for guidance from Machine Learning professionals
-- 🥅 Mission 2022: Master Data Structures and Algorithms
+- 🥅 Mission 2022: Get to know about more Deep Learning algorithms and architectures.
+
+---
 
 ### Hobbies and Habits
 
-- ✍️ Love writing articles on Machine Learning 
-- 🔥 Interested in Open Source contribution (Not started yet)
+- ✍️ Love writing articles on Machine Learning and Deep Learning
 - 📓 Like taking detailed and <s>boring</s> 'productive' notes
-- 💪 Love implementing Machine Learning algorithms from scratch 
-- 🎵 Love listening to music especially Juice WRLD and Iann Dior
+- 💪 Love implementing Deep Learning algorithms from scratch 
+- 🎵 Love vibing to Juice WRLD, Ian Dior and Lil Mosey
 
+---
 
-### Connect with me
+### Let's Connect
 
-[<img align="left" alt="KartikeyaRahulSharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-sharma-3246281bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeya.rahul.sharma@gmail.com)
 
-<br />
-
-### Languages and Tools
-
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][linkedin]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][linkedin]
-[<img align="left" alt="Jupyter" width="24px" src="https://user-images.githubusercontent.com/77334373/140648786-f941cdec-9c17-4a6b-a036-bd642d3862aa.png" />][linkedin]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />][linkedin]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linkedin]
-
-<br />
 <br />
 
 ---
 
-### 📕  Latest Articles
+### Languages and Tools
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+
+
+<br />
+<br />
+
+
+---
+
+<h3 align="center">
+  <a href="https://hand-written-digit-generator.herokuapp.com/">
+    Latest Project From Scratch
+  </a>
+</h3>
+
+
+  
+<p align="center">
+  <img alt="Hand-Written Digit Generator Web App" src="https://github.com/Kartikeya2710/Hand-Written-Digit-Generator/blob/main/streamlit_video.gif" width="640" height="360" align="center" />
+</p>
+
+
+---
+
+### 📕  Latest Article
 
 <!-- Articles:START -->
 - [My experience as a Machine Learning 'Beginner' 🤓](https://www.linkedin.com/feed/update/urn:li:ugcPost:6848983952414294016?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6848983952414294016%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
@@ -49,15 +83,13 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-  <img align="left" alt="Kartikeya2710's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kartikeya2710&show_icons=true&hide_border=true" />
-  <br />
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya2710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Repository Status
 
-  
-</details>
+<img align="left" alt="Kartikeya2710's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kartikeya2710&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya2710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 [linkedin]: https://www.linkedin.com/in/kartikeya-sharma-3246281bb/
