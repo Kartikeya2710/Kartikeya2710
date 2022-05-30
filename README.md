@@ -21,6 +21,21 @@
 - 💪 Love implementing Deep Learning algorithms from scratch 
 - 🎵 Love vibing to Juice WRLD, Ian Dior and Lil Mosey
 
+
+---
+
+<h3 align="center">
+  <a href="https://hand-written-digit-generator.herokuapp.com/">
+    Latest Project From Scratch
+  </a>
+</h3>
+
+
+  
+<p align="center">
+  <img alt="Hand-Written Digit Generator Web App" src="https://github.com/Kartikeya2710/Hand-Written-Digit-Generator/blob/main/streamlit_video.gif" width="640" height="360" align="center" />
+</p>
+
 ---
 
 ### Let's Connect
@@ -54,22 +69,6 @@
 <br />
 <br />
 
-
----
-
-<h3 align="center">
-  <a href="https://hand-written-digit-generator.herokuapp.com/">
-    Latest Project From Scratch
-  </a>
-</h3>
-
-
-  
-<p align="center">
-  <img alt="Hand-Written Digit Generator Web App" src="https://github.com/Kartikeya2710/Hand-Written-Digit-Generator/blob/main/streamlit_video.gif" width="640" height="360" align="center" />
-</p>
-
-
 ---
 
 ### 📕  Latest Article
@@ -77,7 +76,6 @@
 <!-- Articles:START -->
 - [My experience as a Machine Learning 'Beginner' 🤓](https://www.linkedin.com/feed/update/urn:li:ugcPost:6848983952414294016?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6848983952414294016%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 <!-- Articles:END -->
-
 
 ---
 
@@ -89,7 +87,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya2710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ---
 
