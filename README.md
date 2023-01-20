@@ -79,15 +79,4 @@
 
 ---
 
-
-### Repository Status
-
-<img align="left" alt="Kartikeya2710's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kartikeya2710&show_icons=true&hide_border=true" />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya2710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 [linkedin]: https://www.linkedin.com/in/kartikeya-sharma-3246281bb/
