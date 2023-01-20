@@ -71,12 +71,4 @@
 
 ---
 
-### 📕  Latest Article
-
-<!-- Articles:START -->
-- [My experience as a Machine Learning 'Beginner' 🤓](https://www.linkedin.com/feed/update/urn:li:ugcPost:6848983952414294016?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3AugcPost%3A6848983952414294016%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
-<!-- Articles:END -->
-
----
-
 [linkedin]: https://www.linkedin.com/in/kartikeya-sharma-3246281bb/
