@@ -1,25 +1,22 @@
 
-<h2 align="center">
-  <img src="https://c.tenor.com/rbx3ph5SLRUAAAAj/pikachu-pokemon.gif" alt="Hello" width="95" height="80">
-  
+<h2 align="center">  
   Welcome to my Profile!
 </h2>
 
 
 ### About Me
 
-- 🌱 Learning Machine Learning and Deep Learning
+- 🌱 Exploring Reinforcement Learning and Object Detection
 - 🎓 Pursuing my B.Tech from The LNM Institute of Information Technology
-- 🥅 Mission 2022: Get to know about more Deep Learning algorithms and architectures.
+- 🥅 Mission 2023: Get to know about more Deep Learning algorithms and architectures.
 
 ---
 
 ### Hobbies and Habits
 
-- ✍️ Love writing articles on Machine Learning and Deep Learning
 - 📓 Like taking detailed and <s>boring</s> 'productive' notes
 - 💪 Love implementing Deep Learning algorithms from scratch 
-- 🎵 Love vibing to Juice WRLD, Ian Dior and Lil Mosey
+- 🎵 Love vibing to Charlie Puth, Juice WRLD and Iann Dior
 
 
 ---
