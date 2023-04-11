@@ -6,7 +6,7 @@
 
 ### About Me
 
-- 🌱 Exploring Reinforcement Learning and Object Detection
+- 🌱 Exploring Reinforcement Learning and Computer Vision
 - 🎓 Pursuing my B.Tech from The LNM Institute of Information Technology
 - 🥅 Mission 2023: Get to know about more Deep Learning algorithms and architectures.
 
