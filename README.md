@@ -22,12 +22,10 @@
 ---
 
 <h3 align="center">
-  <a href="https://hand-written-digit-generator.herokuapp.com/">
     Latest Project From Scratch
-  </a>
 </h3>
 
-
+https://user-images.githubusercontent.com/77334373/231176414-3bf5f2f0-30c0-452d-9966-a37050a9e143.mp4
   
 <p align="center">
   <img alt="Hand-Written Digit Generator Web App" src="https://github.com/Kartikeya2710/Hand-Written-Digit-Generator/blob/main/streamlit_video.gif" width="640" height="360" align="center" />
