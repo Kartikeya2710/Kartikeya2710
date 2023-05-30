@@ -22,7 +22,7 @@
 ---
 
 <h3 align="center">
-    Latest Project From Scratch
+    Latest Project
 </h3>
 
 https://user-images.githubusercontent.com/77334373/231176414-3bf5f2f0-30c0-452d-9966-a37050a9e143.mp4
