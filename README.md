@@ -62,7 +62,7 @@ Smart Traffic Engagement and Management System (STEMS)
 
 <a href="https://github.com/Kartikeya2710/STEMS">GitHub Repository</a>
 
-<img width="925" src="https://user-images.githubusercontent.com/77334373/231176414-3bf5f2f0-30c0-452d-9966-a37050a9e143.mp4">
+https://user-images.githubusercontent.com/77334373/231176414-3bf5f2f0-30c0-452d-9966-a37050a9e143.mp4
 
 </h3>
 
