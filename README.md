@@ -1,11 +1,5 @@
-<h1 align="center">  
-  <img src="arm.gif" height=50>
-  <img src="robot.gif" height=50>
-  <img style="transform: scaleX(-1);" src="arm.gif" height=50>
-
+<h1 align="center"> 
   Kartikeya Sharma
-  
-
 </h1>
 
 <h4 align="center">
@@ -32,7 +26,7 @@ I am an indie developer specializing in <strong>Deep Learning</strong> and <stro
 <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
 <img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
 <img align="center" alt="Docker" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-<img align="center" alt="FastAPI" width="65px" style="padding-right:10px;" src="https://camo.githubusercontent.com/86d9ca3437f5034da052cf0fd398299292aab0e4479b58c20f2fc37dd8ccbe05/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"/>
+<img align="center" alt="FastAPI" width="65px" style="padding-right:10px;" src="https://vectorseek.com/wp-content/uploads/2023/09/FastAPI-Logo-Vector.svg-.png"/>
 <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br />
